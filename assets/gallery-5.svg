@@ -1,0 +1,20 @@
+<svg width="800" height="1000" viewBox="0 0 800 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="1000" rx="36" fill="url(#bg)"/>
+  <circle cx="124" cy="875" r="175" fill="#FFFFFF" fill-opacity="0.16"/>
+  <circle cx="668" cy="134" r="148" fill="#FFFFFF" fill-opacity="0.18"/>
+  <path d="M400 234C485 234 548 305 548 396V452C548 562 486 671 400 671C314 671 252 562 252 452V396C252 305 315 234 400 234Z" fill="#39113F"/>
+  <path d="M248 392C248 287 325 206 420 206C515 206 590 287 590 392C590 417 585 441 575 469C542 434 500 414 445 414H353C310 414 273 428 225 471C217 444 248 423 248 392Z" fill="#5A206B"/>
+  <path d="M297 450C297 393 343 347 400 347C457 347 503 393 503 450V562C503 619 457 665 400 665C343 665 297 619 297 562V450Z" fill="#F8D4EB"/>
+  <circle cx="338" cy="338" r="24" fill="#FFDFF1"/>
+  <circle cx="462" cy="338" r="24" fill="#FFDFF1"/>
+  <rect x="208" y="733" width="384" height="146" rx="73" fill="#FFFFFF" fill-opacity="0.9"/>
+  <text x="400" y="798" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#6A2286">Kids Styles</text>
+  <text x="400" y="844" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#8B5AA0">Placeholder Photo</text>
+  <defs>
+    <linearGradient id="bg" x1="78" y1="70" x2="724" y2="947" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFB9D8"/>
+      <stop offset="0.48" stop-color="#D16FD9"/>
+      <stop offset="1" stop-color="#7C2898"/>
+    </linearGradient>
+  </defs>
+</svg>

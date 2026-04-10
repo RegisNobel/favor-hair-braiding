@@ -1,0 +1,21 @@
+<svg width="800" height="1000" viewBox="0 0 800 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="1000" rx="36" fill="url(#bg)"/>
+  <circle cx="165" cy="180" r="140" fill="#FFFFFF" fill-opacity="0.18"/>
+  <circle cx="665" cy="825" r="165" fill="#FFFFFF" fill-opacity="0.16"/>
+  <path d="M400 186C505 186 580 278 580 390C580 525 508 687 400 687C292 687 220 525 220 390C220 278 295 186 400 186Z" fill="#301035"/>
+  <path d="M214 369C214 249 300 154 406 154C512 154 598 249 598 369C598 411 588 447 568 483C531 439 498 426 455 426C393 426 345 470 266 525C231 473 214 430 214 369Z" fill="#4B1658"/>
+  <path d="M281 432C281 369 333 318 396 318H404C467 318 519 369 519 432V561C519 624 467 676 404 676H396C333 676 281 624 281 561V432Z" fill="#F9D4ED"/>
+  <path d="M281 455H519" stroke="#9A5FB4" stroke-width="16" stroke-linecap="round"/>
+  <path d="M281 500H519" stroke="#9A5FB4" stroke-width="16" stroke-linecap="round"/>
+  <path d="M281 545H519" stroke="#9A5FB4" stroke-width="16" stroke-linecap="round"/>
+  <rect x="218" y="742" width="364" height="138" rx="69" fill="#FFFFFF" fill-opacity="0.9"/>
+  <text x="400" y="805" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#6B2088">Box Braids</text>
+  <text x="400" y="849" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#8B5AA0">Placeholder Photo</text>
+  <defs>
+    <linearGradient id="bg" x1="65" y1="94" x2="746" y2="947" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFB3D6"/>
+      <stop offset="0.52" stop-color="#C954D4"/>
+      <stop offset="1" stop-color="#6E1B8F"/>
+    </linearGradient>
+  </defs>
+</svg>

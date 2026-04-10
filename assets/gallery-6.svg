@@ -1,0 +1,18 @@
+<svg width="800" height="1000" viewBox="0 0 800 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="1000" rx="36" fill="url(#bg)"/>
+  <path d="M76 146C167 69 286 28 406 35C553 43 680 124 736 247C792 370 772 531 700 640C631 746 511 815 390 812C269 809 151 734 90 618C28 502 8 358 76 146Z" fill="#FFFFFF" fill-opacity="0.12"/>
+  <path d="M400 188C507 188 584 282 584 396C584 538 510 703 400 703C290 703 216 538 216 396C216 282 293 188 400 188Z" fill="#2E1035"/>
+  <path d="M214 381C214 251 306 155 414 155C522 155 612 251 612 381C612 423 603 468 588 505C530 470 477 456 397 456C322 456 268 471 213 508C207 472 214 423 214 381Z" fill="#4A1657"/>
+  <path d="M283 433C283 370 335 318 400 318C465 318 517 370 517 433V568C517 633 465 685 400 685C335 685 283 633 283 568V433Z" fill="#F7CBE8"/>
+  <path d="M286 610C324 594 359 584 400 584C441 584 476 594 514 610C497 652 452 683 400 683C348 683 303 652 286 610Z" fill="#EFAFD5"/>
+  <rect x="208" y="739" width="384" height="142" rx="71" fill="#FFFFFF" fill-opacity="0.9"/>
+  <text x="400" y="804" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#6E218C">Weaves</text>
+  <text x="400" y="850" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#8B5AA0">Placeholder Photo</text>
+  <defs>
+    <linearGradient id="bg" x1="84" y1="63" x2="715" y2="943" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFC9E1"/>
+      <stop offset="0.47" stop-color="#D45BD1"/>
+      <stop offset="1" stop-color="#73208D"/>
+    </linearGradient>
+  </defs>
+</svg>

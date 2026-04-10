@@ -1,0 +1,23 @@
+<svg width="800" height="1000" viewBox="0 0 800 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="1000" rx="36" fill="url(#bg)"/>
+  <path d="M0 0H800V1000H0V0Z" fill="url(#veil)" fill-opacity="0.14"/>
+  <path d="M401 189C495 189 564 271 564 369V437C564 566 490 705 400 705C310 705 236 566 236 437V369C236 271 307 189 401 189Z" fill="#2A0F2F"/>
+  <path d="M250 360C250 241 326 160 424 160C522 160 596 242 596 360C596 412 580 461 549 520C497 476 452 460 398 460C344 460 302 477 251 519C234 470 250 425 250 360Z" fill="#4D185A"/>
+  <path d="M286 434C286 372 337 322 400 322C463 322 514 372 514 434V573C514 636 463 687 400 687C337 687 286 636 286 573V434Z" fill="#F8C7E6"/>
+  <path d="M322 360C352 383 371 426 375 459C348 449 326 437 302 412C284 394 272 367 271 331C291 333 306 344 322 360Z" fill="#FFE7F4"/>
+  <path d="M478 360C448 383 429 426 425 459C452 449 474 437 498 412C516 394 528 367 529 331C509 333 494 344 478 360Z" fill="#FFE7F4"/>
+  <rect x="210" y="740" width="380" height="142" rx="71" fill="#FFFFFF" fill-opacity="0.9"/>
+  <text x="400" y="805" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#6E1B8D">Passion Twist</text>
+  <text x="400" y="851" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#8B5AA0">Placeholder Photo</text>
+  <defs>
+    <linearGradient id="bg" x1="85" y1="75" x2="713" y2="944" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFC1DD"/>
+      <stop offset="0.5" stop-color="#D55CC8"/>
+      <stop offset="1" stop-color="#782294"/>
+    </linearGradient>
+    <linearGradient id="veil" x1="0" y1="0" x2="800" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,19 @@
+<svg width="800" height="1000" viewBox="0 0 800 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="1000" rx="36" fill="url(#bg)"/>
+  <path d="M0 713C121 647 235 621 350 635C505 655 600 752 800 721V1000H0V713Z" fill="#FFFFFF" fill-opacity="0.14"/>
+  <path d="M400 180C508 180 590 271 590 385C590 514 524 692 400 692C276 692 210 514 210 385C210 271 292 180 400 180Z" fill="#381242"/>
+  <path d="M208 377C208 254 297 157 407 157C517 157 604 253 604 377C604 450 571 500 540 565C513 622 478 698 400 698C323 698 287 622 260 565C229 500 208 449 208 377Z" fill="#582169"/>
+  <path d="M282 426C282 362 335 310 400 310C465 310 518 362 518 426V557C518 620 464 674 400 674C336 674 282 620 282 557V426Z" fill="#F3CBE8"/>
+  <path d="M236 244C260 224 296 214 326 220C305 239 293 269 286 307C280 338 268 361 245 379C226 352 221 307 236 244Z" fill="#FCE4F2"/>
+  <path d="M564 244C540 224 504 214 474 220C495 239 507 269 514 307C520 338 532 361 555 379C574 352 579 307 564 244Z" fill="#FCE4F2"/>
+  <rect x="208" y="746" width="384" height="140" rx="70" fill="#FFFFFF" fill-opacity="0.9"/>
+  <text x="400" y="808" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#72258F">Bohemian Style</text>
+  <text x="400" y="852" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#8B5AA0">Placeholder Photo</text>
+  <defs>
+    <linearGradient id="bg" x1="118" y1="73" x2="703" y2="937" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFD0E8"/>
+      <stop offset="0.48" stop-color="#DE79D5"/>
+      <stop offset="1" stop-color="#8E2EA7"/>
+    </linearGradient>
+  </defs>
+</svg>
